@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Barga - Saad Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Barga Saad
+Barga Saad
+Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+barga.saad@gmail.com
 
 Phone
-+1 (213) 352-2795
++212 648203-217
 
 Birthday
-June 23, 1982
+December 31, 2000
 
 Location
-Sacramento, California, USA
+Casablanca, Morocco, Africa
 
 # navbar
 
